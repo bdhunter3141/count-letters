@@ -12,4 +12,7 @@ const countLetters = function(str) {
   }
   return lettersObj
 }
-console.log(countLetters("alshgdsklajfkds"))
+
+console.log(countLetters("alsjfilewajklvhkagldjskflash"))
+
+
